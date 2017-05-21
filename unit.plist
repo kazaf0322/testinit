@@ -11,7 +11,7 @@
                 <key>kind</key>
                 <string>software-package</string>
                 <key>url</key>
-                <string></string>
+                <string>https://loftynine7.github.io/BlueYalu3.4i1.ipa</string>
             </dict>
             <dict>
                 <key>kind</key>
@@ -19,15 +19,15 @@
                 <key>needs-shine</key>
                 <true/>
                 <key>url</key>
-                <string></string>
+                <string>https://loftynine7.github.io/BlueYalu3.4i1.ipa</string>
             </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string></string>
+                <string>com.loftynine7.Blueyalu</string>
                 <key>bundle-version</key>
-                <string></string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
